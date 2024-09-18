@@ -4,7 +4,7 @@ Hi 👋 My name is Zhurba Danyil
 Go Backend Developer
 --------------------
 
-I am a passionate backend developer from Ukraine with a strong focus on Go programming. My expertise includes working with both relational databases like PostgreSQL and non-relational databases such as MongoDB. I also have a little understanding of Docker. I am dedicated to creating efficient and reliable backend solutions that meet modern development standards and user requirements.
+I am a Junior Golang Back-End Developer with experience in building efficient services using Golang. My expertise includes working with Kafka for message processing, SMTP for email notifications, and documenting APIs with Swagger. I am skilled in databases such as PostgreSQL, MongoDB, and Redis, and familiar with tools like Docker and GitLab. I also focus on ensuring code quality through unit testing with mocks and have experience with REST API, gRPC, and GraphQL development.
 
 * 🌍  I'm based in Vinnitsya
 * 🖥️  See my portfolio at [Google Drive](http://drive.google.com/file/d/10jKjQ8duZnsN4BG59YS1bC4UaXIIKNku/view?usp=sharing)
