@@ -4,8 +4,7 @@ Hi 👋 My name is Zhurba Danyil
 Go Backend Developer
 --------------------
 
-
-I am a Go (Golang) backend developer with expertise in PostgreSQL, MongoDB, Redis, Google Cloud Spanner, and ElasticSearch. I specialize in building APIs with REST, gRPC, and GraphQL, implementing secure authentication (JWT, OAuth), and working with Docker, Kafka, and SMTP. Proficient in Git, Swagger, and unit testing, I focus on delivering scalable, testable solutions and collaborating effectively in team environments.
+I’m a Golang Backend Developer with over 2 years of experience in building high-performance, scalable systems. My expertise spans across cloud platforms, message brokers, and API development, with a focus on optimizing system performance. I’ve worked on real-time applications, integrated third-party services, and enhanced data processing efficiency. Always eager to learn and collaborate, I’m committed to delivering robust solutions in fast-paced environments.
 
 * 🌍  I'm based in Vinnitsya
 * ✉️  You can contact me at [daniazhurba2004@gmail.com](mailto:daniazhurba2004@gmail.com)
